@@ -58,6 +58,9 @@ Lavoriamo allo sviluppo di strumenti per l'analisi di rete e alla progettazione 
         <li>🐍 Sviluppo di script Python per la cybersecurity</li>
         <li>⌨️ Creazione di strumenti CLI (Command Line Interface)</li>
         <li>🛡️ Configurazione di reti e firewall</li>
+        <li>🔍 Vulnerability Assessment e Threat Modeling</li>
+        <li>🚨 Incident Response e Gestione Log SIEM</li>
+        <li>🔒 Hardening di sistemi e infrastrutture critiche</li>
       </ul>
     </td>
   </tr>
