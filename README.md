@@ -40,6 +40,7 @@ Lavoriamo allo sviluppo di strumenti per l'analisi di rete e alla progettazione 
   <b>Sei persone, una missione:</b> cybersecurity, Blue Team, sicurezza di rete e progettazione di infrastrutture affidabili.
 </p>
 
+<!-- Scheda Team Leader: Carmelo Sacco (SangueFreddo) -->
 <table>
   <tr>
     <td width="34%" valign="top" align="center">
@@ -58,41 +59,59 @@ Lavoriamo allo sviluppo di strumenti per l'analisi di rete e alla progettazione 
         <li>🐍 Sviluppo di script Python per la cybersecurity</li>
         <li>⌨️ Creazione di strumenti CLI (Command Line Interface)</li>
         <li>🛡️ Configurazione di reti e firewall</li>
-        <li>🔍 Vulnerability Assessment e Threat Modeling</li>
-        <li>🚨 Incident Response e Gestione Log SIEM</li>
-        <li>🔒 Hardening di sistemi e infrastrutture critiche</li>
+        <li>🔍 Vulnerability Assessment e Sicurezza Defensiva</li>
+        <li>🚨 Incident Response e Hardening dei sistemi</li>
       </ul>
     </td>
   </tr>
 </table>
 
-### 🔹 Gli altri membri
-
-I profili seguenti verranno completati quando saranno disponibili nome o nickname, ruolo e competenze. Non sono stati inseriti dati non confermati.
+### 🔹 Membri del Team
 
 <table>
   <tr>
-    <td width="20%" align="center" valign="top">
-      <h3>👤 Membro 2</h3>
-      <p><b>Profilo in arrivo</b></p>
-      <p><sub>Dettagli da definire</sub></p>
+    <td width="50%" valign="top">
+      <h3>👤 Anthony Vitale</h3>
+      <p><b>GitHub:</b> <a href="https://github.com/anthonyvitale2899">anthonyvitale2899</a></p>
+      <p><b>Ruolo:</b> Collaboratore / Network Support</p>
+      <h4>🧠 Competenze:</h4>
+      <ul>
+        <li>🛡️ Implementazione e settaggio firewall</li>
+        <li>🗺️ Supporto alla progettazione di topologie in Cisco Packet Tracer</li>
+        <li>💻 Gestione della Shell di macOS (Terminal)</li>
+        <li>🌐 Configurazione base di dispositivi di rete</li>
+        <li>🔍 Supporto al monitoraggio di rete</li>
+      </ul>
     </td>
-    <td width="20%" align="center" valign="top">
+    <td width="50%" valign="top" align="center">
+      <br/><br/>
+      <p><i>Spazio riservato ai prossimi aggiornamenti del profilo di Anthony.</i></p>
+    </td>
+  </tr>
+</table>
+
+### 🔹 Profili in arrivo
+
+I profili seguenti verranno completati quando saranno disponibili nome o nickname, ruolo e competenze.
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
       <h3>👤 Membro 3</h3>
       <p><b>Profilo in arrivo</b></p>
       <p><sub>Dettagli da definire</sub></p>
     </td>
-    <td width="20%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <h3>👤 Membro 4</h3>
       <p><b>Profilo in arrivo</b></p>
       <p><sub>Dettagli da definire</sub></p>
     </td>
-    <td width="20%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <h3>👤 Membro 5</h3>
       <p><b>Profilo in arrivo</b></p>
       <p><sub>Dettagli da definire</sub></p>
     </td>
-    <td width="20%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <h3>👤 Membro 6</h3>
       <p><b>Profilo in arrivo</b></p>
       <p><sub>Dettagli da definire</sub></p>
