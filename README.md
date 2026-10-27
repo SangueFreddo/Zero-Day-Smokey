@@ -40,17 +40,13 @@ Lavoriamo allo sviluppo di strumenti per l'analisi di rete e alla progettazione 
   <b>Sei persone, una missione:</b> cybersecurity, Blue Team, sicurezza di rete e progettazione di infrastrutture affidabili.
 </p>
 
-<p align="center">
-  <img src="assets/team-zero-day-smokey.png" alt="Grafica del team Zero-day Smokey in blu neon con SangueFreddo e cinque profili in arrivo" width="100%" />
-</p>
-
 <table>
   <tr>
     <td width="34%" valign="top" align="center">
       <img src="assets/sanguefreddo.png" alt="Avatar cyberpunk di SangueFreddo" width="220" />
       <h3>Carmelo Sacco</h3>
       <p><b>Nickname:</b> SangueFreddo</p>
-      <p><strong>🔵 TEAM LEADER</strong></p>
+      <p><strong>👑 TEAM LEADER</strong></p>
       <p><em>«Osservare. Difendere. Progettare. Migliorare.»</em></p>
     </td>
     <td valign="top">
@@ -136,3 +132,4 @@ Per avviare lo script, esegui il comando dalla cartella del progetto:
 
 ```bash
 python Zmap.py
+```
