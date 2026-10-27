@@ -11,10 +11,10 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-ff2020?style=flat-square" alt="Sicurezza informatica">
-  <img src="https://img.shields.io/badge/Team-Blue%20Team-ff2020?style=flat-square" alt="Blue Team">
-  <img src="https://img.shields.io/badge/Networking-Cisco%20Packet%20Tracer-ff2020?style=flat-square" alt="Cisco Packet Tracer">
-  <img src="https://img.shields.io/badge/Lingue-Italiano%20%7C%20Inglese-ff2020?style=flat-square" alt="Lingue">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-2080ff?style=flat-square" alt="Sicurezza informatica">
+  <img src="https://img.shields.io/badge/Team-Blue%20Team-2080ff?style=flat-square" alt="Blue Team">
+  <img src="https://img.shields.io/badge/Networking-Cisco%20Packet%20Tracer-2080ff?style=flat-square" alt="Cisco Packet Tracer">
+  <img src="https://img.shields.io/badge/Lingue-Italiano%20%7C%20Inglese-2080ff?style=flat-square" alt="Lingue">
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ Lavoriamo allo sviluppo di strumenti per l'analisi di rete e alla progettazione 
 </p>
 
 <p align="center">
-  <img src="assets/team-zero-day-smokey.png" alt="Grafica del team Zero-day Smokey in rosso neon con SangueFreddo e cinque profili in arrivo" width="100%" />
+  <img src="assets/team-zero-day-smokey.png" alt="Grafica del team Zero-day Smokey in blu neon con SangueFreddo e cinque profili in arrivo" width="100%" />
 </p>
 
 <table>
@@ -50,7 +50,7 @@ Lavoriamo allo sviluppo di strumenti per l'analisi di rete e alla progettazione 
       <img src="assets/sanguefreddo.png" alt="Avatar cyberpunk di SangueFreddo" width="220" />
       <h3>Carmelo Sacco</h3>
       <p><b>Nickname:</b> SangueFreddo</p>
-      <p><strong>🔴 TEAM LEADER</strong></p>
+      <p><strong>🔵 TEAM LEADER</strong></p>
       <p><em>«Osservare. Difendere. Progettare. Migliorare.»</em></p>
     </td>
     <td valign="top">
@@ -136,28 +136,3 @@ Per avviare lo script, esegui il comando dalla cartella del progetto:
 
 ```bash
 python Zmap.py
-```
-
-Se il file nel repository si chiama effettivamente `Zmap.sh`, verifica il formato dello script e usa il comando appropriato. L'estensione `.sh` è normalmente associata agli script Bash, mentre `.py` è quella convenzionale per gli script Python.
-
-# ⚠️ Uso responsabile e limitazione di responsabilità
-
-Utilizza **Zmap con cautela e solo su reti, dispositivi e sistemi per i quali possiedi l'autorizzazione esplicita a effettuare scansioni**.
-
-La scansione di reti o sistemi di terzi senza permesso può violare leggi, regolamenti o policy applicabili. Prima di avviare qualsiasi operazione, verifica di avere l'autorizzazione necessaria e di comprendere l'impatto potenziale dell'attività.
-
-Gli autori e i manutentori di **Zero-day Smokey** non sono responsabili dell'uso improprio dello script, né di eventuali danni, interruzioni, perdite o conseguenze legali derivanti dal suo utilizzo. L'utente è responsabile delle proprie azioni e del rispetto delle leggi applicabili.
-
-# 🌍 Lingue
-
-La documentazione e le attività del team sono orientate a due lingue:
-
-- 🇮🇹 **Italiano**
-- 🇬🇧 **Inglese**
-
----
-
-<p align="center">
-  <b>Zero-day Smokey</b><br>
-  Osservare. Difendere. Progettare. Migliorare.
-</p>
