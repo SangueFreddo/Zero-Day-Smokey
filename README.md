@@ -40,81 +40,99 @@ Lavoriamo allo sviluppo di strumenti per l'analisi di rete e alla progettazione 
   <b>Sei persone, una missione:</b> cybersecurity, Blue Team, sicurezza di rete e progettazione di infrastrutture affidabili.
 </p>
 
-<!-- Scheda Team Leader: Carmelo Sacco (SangueFreddo) -->
+## 👑 Team Leader
+
 <table>
   <tr>
     <td width="34%" valign="top" align="center">
-      <img src="assets/sanguefreddo.png" alt="Avatar cyberpunk di SangueFreddo" width="220" />
+      <img src="assets/sanguefreddo.png" alt="Avatar cyberpunk di SangueFreddo" width="220" opacity="1" />
       <h3>Carmelo Sacco</h3>
       <p><b>Nickname:</b> SangueFreddo</p>
       <p><strong>👑 TEAM LEADER</strong></p>
       <p><em>«Osservare. Difendere. Progettare. Migliorare.»</em></p>
     </td>
     <td valign="top">
-      <h3>🧠 Competenze</h3>
+      <h3>🧠 Competenze principali</h3>
       <ul>
         <li>📡 Analisi del traffico di rete</li>
         <li>🗺️ Progettazione di topologie con Cisco Packet Tracer</li>
-        <li>🔌 Scansione delle porte</li>
+        <li>🔌 Scansione delle porte & Vulnerability Assessment</li>
         <li>🐍 Sviluppo di script Python per la cybersecurity</li>
         <li>⌨️ Creazione di strumenti CLI (Command Line Interface)</li>
-        <li>🛡️ Configurazione di reti e firewall</li>
-        <li>🔍 Vulnerability Assessment e Sicurezza Defensiva</li>
-        <li>🚨 Incident Response e Hardening dei sistemi</li>
+        <li>🛡️ Configurazione di reti, firewall e Hardening dei sistemi</li>
+        <li>🚨 Incident Response & Strategie di Difesa</li>
       </ul>
     </td>
   </tr>
 </table>
 
-### 🔹 Membri del Team
+## 👥 Membri del Team
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>👤 Anthony Vitale</h3>
-      <p><b>GitHub:</b> <a href="https://github.com/anthonyvitale2899">anthonyvitale2899</a></p>
-      <p><b>Ruolo:</b> Collaboratore / Network Support</p>
-      <h4>🧠 Competenze:</h4>
+      <p><b>GitHub:</b> <a href="https://github.com/anthonyvitale2899" target="_blank">anthonyvitale2899</a></p>
+      <h4>🧠 Competenze</h4>
       <ul>
         <li>🛡️ Implementazione e settaggio firewall</li>
-        <li>🗺️ Supporto alla progettazione di topologie in Cisco Packet Tracer</li>
-        <li>💻 Gestione della Shell di macOS (Terminal)</li>
-        <li>🌐 Configurazione base di dispositivi di rete</li>
-        <li>🔍 Supporto al monitoraggio di rete</li>
+        <li>🗺️ Progettazione topologie Cisco Packet Tracer</li>
+        <li>💻 Utilizzo shell macOS</li>
+        <li>🛠️ Gestione e configurazioni di rete base</li>
       </ul>
     </td>
-    <td width="50%" valign="top" align="center">
-      <br/><br/>
-      <p><i>Spazio riservato ai prossimi aggiornamenti del profilo di Anthony.</i></p>
+    <td width="50%" valign="top">
+      <h3>👤 Elia Ferro</h3>
+      <p><b>GitHub:</b> <a href="https://github.com/eliaferro95" target="_blank">eliaferro95</a></p>
+      <h4>🧠 Competenze</h4>
+      <ul>
+        <li>🔌 Collegamenti tra macchine e sistemi</li>
+        <li>🌐 Gestione della rete interna</li>
+        <li>📢 Marketing & Comunicazione aziendale</li>
+        <li>💻 Utilizzo shell Linux e Windows</li>
+        <li>🛠️ Supporto tecnico di base</li>
+      </ul>
     </td>
   </tr>
-</table>
-
-### 🔹 Profili in arrivo
-
-I profili seguenti verranno completati quando saranno disponibili nome o nickname, ruolo e competenze.
-
-<table>
   <tr>
-    <td width="25%" align="center" valign="top">
-      <h3>👤 Membro 3</h3>
-      <p><b>Profilo in arrivo</b></p>
-      <p><sub>Dettagli da definire</sub></p>
+    <td width="50%" valign="top">
+      <h3>👤 Antonio Giuliano</h3>
+      <p><b>GitHub:</b> <a href="https://github.com/AntonioGiuliano-iso" target="_blank">AntonioGiuliano-iso</a></p>
+      <h4>🧠 Competenze</h4>
+      <ul>
+        <li>🐍 Scripting e sviluppo in Python</li>
+        <li>🌐 Web Technologies (HTML & HTTP)</li>
+        <li>🐧 Utilizzo e gestione shell Linux</li>
+        <li>🛠️ Operazioni di rete e IT di base</li>
+      </ul>
     </td>
-    <td width="25%" align="center" valign="top">
-      <h3>👤 Membro 4</h3>
-      <p><b>Profilo in arrivo</b></p>
-      <p><sub>Dettagli da definire</sub></p>
+    <td width="50%" valign="top">
+      <h3>👤 Samuele Petrini</h3>
+      <p><b>GitHub:</b> <a href="https://github.com/Archionna" target="_blank">Archionna</a></p>
+      <h4>🧠 Competenze</h4>
+      <ul>
+        <li>🛡️ Sicurezza informatica & Analysis</li>
+        <li>🛠️ Sviluppo tool di rete e sniffer</li>
+        <li>🔌 Cattura e analisi socket di rete</li>
+        <li>🐍 Programmazione in Python</li>
+        <li>💻 Gestione di base dei sistemi</li>
+      </ul>
     </td>
-    <td width="25%" align="center" valign="top">
-      <h3>👤 Membro 5</h3>
-      <p><b>Profilo in arrivo</b></p>
-      <p><sub>Dettagli da definire</sub></p>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👤 Angelo Liso</h3>
+      <p><b>GitHub:</b> <a href="https://github.com/tonypoiz" target="_blank">tonypoiz</a></p>
+      <h4>🧠 Competenze</h4>
+      <ul>
+        <li>🐍 Script Python per analisi pacchetti</li>
+        <li>⚡ Ottimizzazione ed efficientamento codice Python</li>
+        <li>💬 Strategie di comunicazione</li>
+        <li>🐧 Utilizzo e navigazione shell Linux</li>
+        <li>🛠️ Supporto e gestione IT base</li>
+      </ul>
     </td>
-    <td width="25%" align="center" valign="top">
-      <h3>👤 Membro 6</h3>
-      <p><b>Profilo in arrivo</b></p>
-      <p><sub>Dettagli da definire</sub></p>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
