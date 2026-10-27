@@ -1,19 +1,25 @@
-<p align="center">
-  <h1 align="center">Zero-day Smokey</h1>
-  <p align="center">
-    <b>Sicurezza Informatica • Blue Team • Sicurezza di Rete • Progettazione di Reti</b>
-  </p>
-</p>
+<table>
+  <tr>
+    <td valign="middle" width="78%">
+      <h1>Zero-day Smokey</h1>
+      <b>Sicurezza Informatica • Blue Team • Sicurezza di Rete • Progettazione di Reti</b>
+    </td>
+    <td valign="middle" align="right" width="22%">
+      <img src="assets/zero-day-smokey-logo.png" alt="Logo Zero-day Smokey" width="112" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square" alt="Sicurezza informatica">
-  <img src="https://img.shields.io/badge/Team-Blue%20Team-blue?style=flat-square" alt="Blue Team">
-  <img src="https://img.shields.io/badge/Networking-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square" alt="Cisco Packet Tracer">
-  <img src="https://img.shields.io/badge/Lingue-Italiano%20%7C%20Inglese-green?style=flat-square" alt="Lingue">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-ff2020?style=flat-square" alt="Sicurezza informatica">
+  <img src="https://img.shields.io/badge/Team-Blue%20Team-ff2020?style=flat-square" alt="Blue Team">
+  <img src="https://img.shields.io/badge/Networking-Cisco%20Packet%20Tracer-ff2020?style=flat-square" alt="Cisco Packet Tracer">
+  <img src="https://img.shields.io/badge/Lingue-Italiano%20%7C%20Inglese-ff2020?style=flat-square" alt="Lingue">
 </p>
 
 <p align="center">
   <a href="#-chi-siamo">Chi siamo</a> |
+  <a href="#-il-team">Il team</a> |
   <a href="#-zmap">Zmap</a> |
   <a href="#-progettazione-di-reti-aziendali">Progettazione di reti aziendali</a> |
   <a href="#-avvio-rapido">Avvio rapido</a> |
@@ -27,6 +33,75 @@
 **Zero-day Smokey** è un team che si occupa di **sicurezza informatica e networking**, con un approccio orientato al **Blue Team** e alla progettazione di infrastrutture di rete.
 
 Lavoriamo allo sviluppo di strumenti per l'analisi di rete e alla progettazione di topologie di rete con **Cisco Packet Tracer**, con l'obiettivo di aiutare aziende e organizzazioni a pianificare infrastrutture coerenti con le proprie esigenze.
+
+# 👥 Il team
+
+<p align="center">
+  <b>Sei persone, una missione:</b> cybersecurity, Blue Team, sicurezza di rete e progettazione di infrastrutture affidabili.
+</p>
+
+<p align="center">
+  <img src="assets/team-zero-day-smokey.png" alt="Grafica del team Zero-day Smokey in rosso neon con SangueFreddo e cinque profili in arrivo" width="100%" />
+</p>
+
+<table>
+  <tr>
+    <td width="34%" valign="top" align="center">
+      <img src="assets/sanguefreddo.png" alt="Avatar cyberpunk di SangueFreddo" width="220" />
+      <h3>Carmelo Sacco</h3>
+      <p><b>Nickname:</b> SangueFreddo</p>
+      <p><strong>🔴 TEAM LEADER</strong></p>
+      <p><em>«Osservare. Difendere. Progettare. Migliorare.»</em></p>
+    </td>
+    <td valign="top">
+      <h3>🧠 Competenze</h3>
+      <ul>
+        <li>📡 Analisi del traffico di rete</li>
+        <li>🗺️ Progettazione di topologie con Cisco Packet Tracer</li>
+        <li>🔌 Scansione delle porte</li>
+        <li>🐍 Sviluppo di script Python per la cybersecurity</li>
+        <li>⌨️ Creazione di strumenti CLI (Command Line Interface)</li>
+        <li>🛡️ Configurazione di reti e firewall</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### 🔹 Gli altri membri
+
+I profili seguenti verranno completati quando saranno disponibili nome o nickname, ruolo e competenze. Non sono stati inseriti dati non confermati.
+
+<table>
+  <tr>
+    <td width="20%" align="center" valign="top">
+      <h3>👤 Membro 2</h3>
+      <p><b>Profilo in arrivo</b></p>
+      <p><sub>Dettagli da definire</sub></p>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <h3>👤 Membro 3</h3>
+      <p><b>Profilo in arrivo</b></p>
+      <p><sub>Dettagli da definire</sub></p>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <h3>👤 Membro 4</h3>
+      <p><b>Profilo in arrivo</b></p>
+      <p><sub>Dettagli da definire</sub></p>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <h3>👤 Membro 5</h3>
+      <p><b>Profilo in arrivo</b></p>
+      <p><sub>Dettagli da definire</sub></p>
+    </td>
+    <td width="20%" align="center" valign="top">
+      <h3>👤 Membro 6</h3>
+      <p><b>Profilo in arrivo</b></p>
+      <p><sub>Dettagli da definire</sub></p>
+    </td>
+  </tr>
+</table>
+
+---
 
 # 🚀 Zmap
 
