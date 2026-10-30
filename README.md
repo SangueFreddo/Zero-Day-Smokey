@@ -20,10 +20,10 @@
 <p align="center">
   <a href="#-chi-siamo">Chi siamo</a> |
   <a href="#-il-team">Il team</a> |
+  <a href="#-progetto-theta">Progetto THETA</a> |
   <a href="#-zmap">Zmap</a> |
   <a href="#-progettazione-di-reti-aziendali">Progettazione di reti aziendali</a> |
-  <a href="#-avvio-rapido">Avvio rapido</a> |
-  <a href="#-uso-responsabile">Uso responsabile</a>
+  <a href="#-avvio-rapido">Avvio rapido</a>
 </p>
 
 ---
@@ -36,31 +36,27 @@ Lavoriamo allo sviluppo di strumenti per l'analisi di rete e alla progettazione 
 
 # 👥 Il team
 
-<p align="center">
-  <b>Sei persone, una missione:</b> cybersecurity, Blue Team, sicurezza di rete e progettazione di infrastrutture affidabili.
-</p>
-
 ## 👑 Team Leader
 
 <table>
   <tr>
     <td width="34%" valign="top" align="center">
-      <img src="assets/sanguefreddo.png" alt="Avatar cyberpunk di SangueFreddo" width="220" opacity="1" />
+      <img src="assets/sanguefreddo.png" alt="Avatar cyberpunk di SangueFreddo" width="220" />
       <h3>Carmelo Sacco</h3>
       <p><b>Nickname:</b> SangueFreddo</p>
-      <p><strong>👑 TEAM LEADER</strong></p>
+      <p><strong>👑 TEAM LEADER & CYBERSECURITY SPECIALIST</strong></p>
       <p><em>«Osservare. Difendere. Progettare. Migliorare.»</em></p>
     </td>
     <td valign="top">
-      <h3>🧠 Competenze principali</h3>
+      <h3>🧠 Competenze</h3>
       <ul>
         <li>📡 Analisi del traffico di rete</li>
         <li>🗺️ Progettazione di topologie con Cisco Packet Tracer</li>
         <li>🔌 Scansione delle porte & Vulnerability Assessment</li>
         <li>🐍 Sviluppo di script Python per la cybersecurity</li>
         <li>⌨️ Creazione di strumenti CLI (Command Line Interface)</li>
-        <li>🛡️ Configurazione di reti, firewall e Hardening dei sistemi</li>
-        <li>🚨 Incident Response & Strategie di Difesa</li>
+        <li>🛡️ Configurazione di reti, firewall e hardening dei sistemi</li>
+        <li>🚨 Incident Response & Log Analysis</li>
       </ul>
     </td>
   </tr>
@@ -72,70 +68,84 @@ Lavoriamo allo sviluppo di strumenti per l'analisi di rete e alla progettazione 
   <tr>
     <td width="50%" valign="top">
       <h3>👤 Anthony Vitale</h3>
-      <p><b>GitHub:</b> <a href="https://github.com/anthonyvitale2899" target="_blank">anthonyvitale2899</a></p>
-      <h4>🧠 Competenze</h4>
+      <p><b>Nickname GitHub:</b> <a href="https://github.com/anthonyvitale2899">anthonyvitale2899</a></p>
+      <p><b>💼 Ruolo:</b> Network Security Engineering</p>
+      <h4>🧠 Competenze:</h4>
       <ul>
-        <li>🛡️ Implementazione e settaggio firewall</li>
+        <li>🔥 Implementazione e settaggio firewall</li>
         <li>🗺️ Progettazione topologie Cisco Packet Tracer</li>
-        <li>💻 Utilizzo shell macOS</li>
-        <li>🛠️ Gestione e configurazioni di rete base</li>
+        <li>💻 Gestione e comandi Shell macOS</li>
+        <li>🛠️ Supporto alla configurazione di rete e basi di networking</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>👤 Elia Ferro</h3>
-      <p><b>GitHub:</b> <a href="https://github.com/eliaferro95" target="_blank">eliaferro95</a></p>
-      <h4>🧠 Competenze</h4>
+      <p><b>Nickname GitHub:</b> <a href="https://github.com/eliaferro95">eliaferro95</a></p>
+      <p><b>💼 Ruolo:</b> Cost Estimator e Subcontractor Manager</p>
+      <h4>🧠 Competenze:</h4>
       <ul>
-        <li>🔌 Collegamenti tra macchine e sistemi</li>
+        <li>🖥️ Collegamenti tra macchine e infrastruttura</li>
         <li>🌐 Gestione della rete interna</li>
-        <li>📢 Marketing & Comunicazione aziendale</li>
-        <li>💻 Utilizzo shell Linux e Windows</li>
-        <li>🛠️ Supporto tecnico di base</li>
+        <li>📊 Esperto in Marketing e gestione risorse</li>
+        <li>💻 Utilizzo della Shell di Linux e Windows</li>
+        <li>🛠️ Basi di amministrazione di sistema</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>👤 Antonio Giuliano</h3>
-      <p><b>GitHub:</b> <a href="https://github.com/AntonioGiuliano-iso" target="_blank">AntonioGiuliano-iso</a></p>
-      <h4>🧠 Competenze</h4>
+      <p><b>Nickname GitHub:</b> <a href="https://github.com/AntonioGiuliano-iso">AntonioGiuliano-iso</a></p>
+      <p><b>💼 Ruolo:</b> Help Desk Specialist</p>
+      <h4>🧠 Competenze:</h4>
       <ul>
-        <li>🐍 Scripting e sviluppo in Python</li>
-        <li>🌐 Web Technologies (HTML & HTTP)</li>
-        <li>🐧 Utilizzo e gestione shell Linux</li>
-        <li>🛠️ Operazioni di rete e IT di base</li>
+        <li>🐍 Scripting in Python</li>
+        <li>🌐 Esperto HTML e protocollo HTTP</li>
+        <li>💻 Utilizzo della Shell Linux</li>
+        <li>🛠️ Assistenza tecnica e basi di networking</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>👤 Samuele Petrini</h3>
-      <p><b>GitHub:</b> <a href="https://github.com/Archionna" target="_blank">Archionna</a></p>
-      <h4>🧠 Competenze</h4>
+      <p><b>Nickname GitHub:</b> <a href="https://github.com/Archionna">Archionna</a></p>
+      <p><b>💼 Ruolo:</b> DevOps Engineer & Technical Writer</p>
+      <h4>🧠 Competenze:</h4>
       <ul>
-        <li>🛡️ Sicurezza informatica & Analysis</li>
-        <li>🛠️ Sviluppo tool di rete e sniffer</li>
-        <li>🔌 Cattura e analisi socket di rete</li>
+        <li>🛡️ Esperto della sicurezza e analisi delle minacce</li>
+        <li>🛠️ Creazione di tool di sicurezza (sniffer di rete, socket capture)</li>
         <li>🐍 Programmazione in Python</li>
-        <li>💻 Gestione di base dei sistemi</li>
+        <li>📝 Documentazione tecnica e basi di infrastruttura</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" colspan="2">
       <h3>👤 Angelo Liso</h3>
-      <p><b>GitHub:</b> <a href="https://github.com/tonypoiz" target="_blank">tonypoiz</a></p>
-      <h4>🧠 Competenze</h4>
+      <p><b>Nickname GitHub:</b> <a href="https://github.com/tonypoiz">tonypoiz</a></p>
+      <p><b>💼 Ruolo:</b> Technical Writer e Python Developer</p>
+      <h4>🧠 Competenze:</h4>
       <ul>
-        <li>🐍 Script Python per analisi pacchetti</li>
-        <li>⚡ Ottimizzazione ed efficientamento codice Python</li>
-        <li>💬 Strategie di comunicazione</li>
-        <li>🐧 Utilizzo e navigazione shell Linux</li>
-        <li>🛠️ Supporto e gestione IT base</li>
+        <li>🐍 Scripting Python per l'analisi dei pacchetti di rete</li>
+        <li>⚡ Ottimizzazione e refactoring di programmi Python</li>
+        <li>📢 Esperto nella comunicazione e documentazione tecnica</li>
+        <li>💻 Utilizzo della Shell Linux e strumenti CLI base</li>
       </ul>
-    </td>
-    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
+
+---
+
+# 🌐 Progetto THETA
+
+All'interno del repository GitHub è disponibile il progetto completo della rete aziendale **THETA**, progettato per offrire un'infrastruttura moderna, ridondante e ad alta affidabilità.
+
+### 📐 Caratteristiche dell'Architettura:
+- **Struttura Collapsed Core**: ottimizzazione dell'infrastruttura combinando i livelli Core e Distribution per ridurre la latenza e semplificare la gestione.
+- **Multilayer Switch (4x)**: implementazione di 4 switch multilayer per la gestione efficiente del routing inter-VLAN e dello switching ad alte prestazioni.
+- **Distribuzione su 2 Stabili**: topologia distribuita geograficamente per collegare due differenti stabili aziendali.
+- **Ridondanza con HSRP (Hot Standby Router Protocol)**: configurazione del protocollo HSRP per garantire alta disponibilità e failover automatico dei gateway di rete.
+- **Documentazione e Preventivo**: il progetto include l'analisi completa dei costi, la distinta dei dispositivi hardware, la stima del budget e il preventivo finale d'implementazione.
 
 ---
 
